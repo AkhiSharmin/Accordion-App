@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "LaughMasterX",
+    "question": "Why don't scientists trust atoms?",
+    "answer": "Because they make up everything!",
+    "favoriteItem": "Rubber Chickens"
+  },
+  {
+    "id": 2,
+    "name": "Jokester9000",
+    "question": "Why did the scarecrow win an award?",
+    "answer": "Because he was outstanding in his field!",
+    "favoriteItem": "Whoopie Cushions"
+  },
+  {
+    "id": 3,
+    "name": "GiggleGuru42",
+    "question": "What do you call fake spaghetti?",
+    "answer": "An impasta!",
+    "favoriteItem": "Squirting Flowers"
+  },
+  {
+    "id": 4,
+    "name": "HahaHarold",
+    "question": "Why did the bicycle fall over?",
+    "answer": "Because it was two-tired!",
+    "favoriteItem": "Joy Buzzers"
+  },
+  {
+    "id": 5,
+    "name": "FunnyFelicity",
+    "question": "What did one hat say to the other?",
+    "answer": "Stay here, I'm going on ahead!",
+    "favoriteItem": "Funny Glasses"
+  },
+  {
+    "id": 6,
+    "name": "ChucklingCharlie",
+    "question": "Why did the math book look sad?",
+    "answer": "Because it had too many problems.",
+    "favoriteItem": "Pocket Protectors"
+  }
+]
